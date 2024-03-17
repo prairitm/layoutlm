@@ -1,0 +1,14 @@
+pytesseract
+pandas
+numpy
+shapely
+Pillow
+lxml
+scikit-learn
+huggingface_hub
+transformers
+datasets
+seqeval
+torch
+torchvision
+accelerate

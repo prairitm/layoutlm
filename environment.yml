@@ -1,0 +1,20 @@
+name: mymlproject
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pip
+  - pip:
+    - pytesseract
+    - pandas
+    - numpy
+    - shapely
+    - pillow
+    - lxml
+    - scikit-learn
+    - tqdm
+    - transformers
+    - datasets
+    - seqeval
+    - torch
+    - torchvision
